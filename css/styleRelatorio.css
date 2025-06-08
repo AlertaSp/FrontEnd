@@ -1,0 +1,12 @@
+.card {
+  background: #f9f9f9;
+  padding: 15px;
+  margin-top: 10px;
+  border-left: 4px solid #007BFF;
+  border-radius: 6px;
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #007BFF;
+}
