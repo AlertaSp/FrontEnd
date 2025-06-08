@@ -28,10 +28,3 @@ Este repositório contém o **frontend da aplicação**, que se comunica com um 
 - **OpenStreetMap API** para geocodificação de endereços
 
 ---
-
-## 💡 Como executar o projeto localmente
-
-### 1. Clone o repositório:
-```bash
-git clone https://github.com/AlertaSp/FrontEnd.git
-cd FrontEnd
